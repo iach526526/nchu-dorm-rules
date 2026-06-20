@@ -1,0 +1,585 @@
+國立中興大學興大二村公約及違規處理要點
+National Chung Hsing University Guidelines or Rules and Punishment for Second-Village Dormitory
+
+114 年 5 月 07 日興大二村服務委員會會議修正
+Amended at the Second-Village Dormitory Management Committee Meeting on May 07, 2025
+113 年 5 月 29 日興大二村服務委員會會議修正
+Amended at the Second-Village Dormitory Management Committee Meeting on May 15, 2024
+112 年 5 月 24 日興大二村服務委員會會議修正
+Amended at the Second-Village Dormitory Management Committee Meeting on May 24, 2023
+111 年 6 月 01 日興大二村服務委員會會議修正
+Amended at the Second-Village Dormitory Management Committee Meeting on June 01, 2022
+110 年 6 月 09 日男生宿舍服務委員會會議修正
+Amended at the Male Dormitory Management Committee Meeting on June 09, 2021
+
+第一條
+1. 依據中興大學學生住宿輔導辦法第十六條特制定本公約，以維護宿舍整體安全，並由興大二村
+
+服務委員會(以下簡稱本會)執行本公約。
+2. 本校學生進住興大二村男生宿舍(以下簡稱本宿舍)應遵守本公約，違反本公約者，依具體情況
+
+勒令退宿或記點處分。
+3. 住宿生之違規記點，採一學年累計制。記滿 5 點者，斷網三天；記滿 10 點者，斷網一個星
+
+期；記滿 15 點者，斷網一個月且通知家長；記滿 20 點者，勒令退宿且當學年及下學年不得
+再申請住宿；情節重大者得勒令立即退宿，不得異議。
+
+Article 1:
+1.
+
+This regulation is enacted according to Dormitory Regulations of National Chung Hsing University.
+Second-Village Dormitory Service Committee (SDSC) is responsible for implementing the rules to
+maintain the safety of the dormitory.
+
+2.
+
+Students living in Second-Village Dormitory should follow this regulation. Those who violate the
+rules shall receive penalty points or be suspended from the dormitory according to the situation.
+
+3.
+
+Penalty point is cumulative for an academic year. Students who receive 5 penalty points will be
+unable to connect the internet for 3 days. Students who receive 10 penalty points will be unable to
+connect the internet for a week Students who receive 15 penalty points will be unable to connect
+the internet for a month, and their parents will be notified. Students who receive 20 penalty points
+should be suspended from the dormitory immediately and are not allowed to apply for
+accommodation in this and next academic year. No objection is accepted.
+
+第二條
+為辦理本宿舍相關費用之業務，住宿生須將本人紙本帳戶資料表 (父母及親友，概不收受)依照公
+告時程繳交，以利辦理水、電費、財產保證金及清潔保證金退費。
+
+Article 2:
+
+According to the provision of the Cashier Division, residents should register their personal
+account information in the Student Account Registration System. The account which owned
+by their parents, relatives or friends is not allowed. Residents who have not registered will
+not receive refunds in the end of the academic year.
+
+第三條
+宿舍床位由興大二村服務中心(以下簡稱服務中心)分配調整，住宿生不得拒絕床位安排及調整。
+另若寢室僅剩一人時，服務中心因考量安全需求有權安排更換至其他寢室。未經服務中心許可，
+擅自進住、私自換床位或至他人寢室就寢，記 10 點。但如有以下情況發生，經審查通過，可申
+請換床位：(1) 與室友嚴重生活作息不協調者，經服務委員舉證。(2)有疾病需他人協助者。(3)
+緊急狀況。若未事先申請，視同私自換床位。
+
+Article 3:
+Beds in the dormitory are allocated by Second-Village Dormitory Service Center. Residents are not
+allowed to reject the allocation and adjustment of beds. If there is only a resident in the room, SecondVillage Dormitory Service Center reserves the right to reassign residents to another room based on
+safety considerations. Residents moving into the dormitory, changing their bed or room without the
+permission of Second-Village Dormitory Service Center shall receive 10 penalty points.
+Residents can apply for bed-changing under the following circumstances:
+1.
+
+Residents who were in disorder with their roommates because of life style, which is proved by
+a member of SDSC.
+
+2.
+
+Residents who suffer from illness and need special cares.
+
+3.
+
+Other emergency situations.
+
+Changing beds without application is considered as changing bed without permission.
+
+第四條
+住宿生未經服務中心許可，擅自留宿非該房之住宿生，記 5 點；擅自帶非住宿生進入宿舍，記
+10 點；擅自帶異性進入宿舍或留宿非住宿生，勒令退宿。
+
+Article 4:
+Residents are not allowed to let other residents who are not assigned to their room stay overnight
+without permission from Second-Village Dormitory Service Center; violators will receive 5 penalty points.
+Residents who bring non-residents into the dormitory without permission; violators will receive 10
+penalty points. Residents who take female students or allow non-resident students staying in the
+dormitory overnight shall be suspended from the dormitory.
+
+第五條
+宿舍大門門禁時間為 00:30 ~ 06:00，機車不得進入，若有緊急外出需求者應通知警衛，違者記 5
+點；累計三次者，強制取消已申請之車證，且當學年度不得再次申請。
+
+Article 5:
+
+Curfew time for the dormitory gate is from 0:30 A.M. to 6:00 A.M. Residents who enter the dormitory by
+motorcycle are not allowed. Residents who leave the dormitory by motorcycle shall register first;
+violators shall receive 5 penalty points. If a resident accumulates three violations, parling license will be
+confiscated and not permit another license in current academic year.
+
+第六條
+1.
+
+進出各棟宿舍出入口時，請隨手關門。若發現有阻擋宿舍大門之情形，記 10
+點，累犯者勒令退宿，蓄意破壞門禁系統者，勒令退宿，並照價賠償 。
+
+2.
+
+擅自進入頂樓、機房或其他經公告未開放之區域者，記 5 點，得視情節輕重加重處分。
+
+Article 6:
+1.
+
+Please close the door when entering and leaving the dormitory. Residents who block the gate
+shall receive 10 penalty points. Those who constantly violate this article shall be suspended from
+the dormitory. Residents who break the access system shall be suspended from the dormitory
+immediately and be requested for compensation.
+
+2.
+
+Anyone who enters an unopened area without permission will be given 5 penalty points and may
+be given a heavier punishment depending on the severity of the circumstances.
+
+第七條
+住宿生借用寢室備份鑰匙須於借用後 24 小時內歸還，若逾時未還，記 5 點。
+
+Article 7:
+Residents borrowing the backup key of their room should return the key in 24 hours. Violators shall
+receive 5 penalty points.
+
+第八條
+有床位而未進住或每週有三次以上無故未在寢室就寢者，勒令退宿。
+
+Article 8:
+Residents who acquired a bed in the dormitory but do not live in or do not stay in dormitory room over 3
+times per week shall be suspended from the dormitory immediately.
+
+第九條
+1.
+
+宿舍區域內應保持輕聲，以不影響他人為準則，違者記 5 點，屢勸不聽者，得連續加記。
+
+2.
+
+深夜進行娛樂活動而影響他人休息者，記 5 點，第二次以上犯者，記 10 點。深夜係指
+00:00 ~ 06:00。
+
+Article 9:
+
+1.
+
+Residents should lower their voice and not disturb other residents. Violators shall receive 5
+penalty points. Repeated violations despite warnings may result in cumulative penalty points.
+
+2.
+
+Those engaging in entertainment activities at late night that disturb others' rest shall be given 5
+penalty points. For the second and subsequent offenses, 10 penalty points shall be given. Late
+night is defined as a period from 00:00 A.M. to 06:00 A.M.
+
+第十條
+夜間 00:00 ~ 06:00，禁用洗衣機、烘衣機及脫水機，違者記 5 點。
+
+Article 10:
+Residents should not use the washing machine, dryer and spin dryer from 00:00 A.M. to 6:00 A.M.
+Violators shall receive 5 penalty points.
+
+第十一條
+除服務中心或本會公告區域外，宿舍區域內禁止打球，違者記 5 點。
+
+Article 11:
+Playing ball in the dormitory area is prohibited. Violators shall receive 5 penalty points.
+
+第十二條
+未經許可不得擅自開啟他人寢室、抽屜、衣櫃，或有任何竊取財物之行為，違者依情節輕重議
+處。服務委員值勤公務時，得視公務需求於合理範圍內進入住宿生寢室。
+
+Article 12:
+It is prohibited to entering other people’s room, opening drawers or closets of others without permission.
+Larceny is strictly prohibited in the dormitory. Violators will be measured in accordance with the
+seriousness of the situation. Member in SDSC can enter students’ rooms due to the needs of public
+affairs.
+
+第十三條
+請尊重其他住宿生，勿侵害他人隱私，違者記 5 點，視情節輕重得加重至 20 點，勒令退宿。
+
+Article 13:
+Residents should respect other residents and not infringe other’s privacy. Violators shall receive 5 penalty
+points. Violators shall receive 20 penalty points in accordance with the seriousness of the situation and
+
+be suspended from the dormitory immediately.
+
+第十四條
+宿舍區域內嚴禁吸菸、打麻將、賭博、飲酒，違者記 10 點；酒醉滋事及鬥毆者，勒令退宿。
+
+Article 14:
+It is prohibited to smoking, playing mahjong, gambling and drinking alcohol in the dormitory area.
+Violators shall receive 10 penalty points. Those who arouse commotion or fight after drinking will be
+suspended from the dormitory immediately.
+
+第十五條
+宿舍區域內禁止飼養動物且公共區域及寢室陽台外牆禁止私自放置盆栽，違者記 5 點，未改善
+者，得連續加記。
+
+Article 15:
+It is prohibited to raising animals and putting plant in the public area or on balcony wall in the dormitory
+area. Violators shall receive 5 penalty points. Failure to make corrections may result in cumulative
+penalty points.
+
+第十六條
+住宿生須做好垃圾分類，違者記 5 點。若廢棄物未丟棄於指定區域內或帶宿舍之外垃圾至宿舍丟
+棄且經查證屬實，違者記 10 點。
+
+Article 16:
+Residents shall maintain the cleanness of the dormitory and recycle properly. Violators shall receive 5
+penalty points. Residents who do not dispose the waste within the designated area or bringing garbage
+from outside into the dormitory and disposing of it there shall receive 10 penalty points.
+
+第十七條
+宿舍區域內禁止使用煤油爐、瓦斯爐等火具或其他危險物品，違者勒令退宿。
+
+Article 17:
+Kerosene stove, cassette cooker and other dangerous products are prohibited in the dormitory. Violators
+will be suspended from the dormitory immediately.
+
+第十八條
+
+小廚房內得使用經國家標準檢驗合格之烹調用具；宿舍其他區域內禁用私人電鍋、電磁爐、快煮
+鍋、電視、電熨斗、烤箱、冰箱、電暖爐、除濕機及其他 500 瓦以上之高功率電器 (除吹風機、
+電腦設備、經服務中心核准發證之冰箱外)，違者視情節議處。
+
+Article 18:
+In the kitchen, only cooking appliances that have passed national safety standards may be used. High
+power appliance, including electric stew pot, induction cooker, electric caldron, TV, iron, dehumidifier,
+refrigerator, electric heater or electronic devices with over 500W, are prohibited in other areas of
+dormitory. (Hair dryer, computer and refrigerator which is recognized and licensed by Second-Village
+Dormitory Service Center are excluded). Violators will be measured in accordance with the seriousness of
+the situation.
+
+第十九條
+未經許可，不得擅自占用公共設備及插座、逕行拔除公共設備或緊急逃生設備之插頭，違者記 5
+點，情節嚴重者依校規處理。
+
+Article 19:
+Residents should not occupy public property and public sockets, pluck out the plug of the public property
+or the emergency evacuation equipment. Violators shall receive 5 penalty points. Those who with serious
+violation will be punished by school regulations.
+
+第二十條
+1.
+
+汙損公物或使其無法正常使用者，記 10 點並負賠償責任。因而致生公共危險者，記 15
+點或勒令退宿。
+
+2.
+
+若有前項之虞行為經屢勸不聽者，記 5 點，得連續加記。
+
+Article 20:
+1.
+
+Those who deface or damage public property, rendering it unusable, shall receive 10 penalty
+points and be held liable for compensation. If such conduct results in a public hazard, the
+offender shall receive 15 penalty points or be suspended from the dormitory immediately.
+
+2.
+
+Residents do actions which may cause the result of former article despite warnings shell receive 5
+penalty points. Repeated violations despite warnings may result in cumulative penalty points.
+
+第二十一條
+
+走廊、飲水機與電線盤架及其他公共區域請勿放置任何物品，違者記 5 點，未清理者，一律以廢
+棄物處理。
+
+Article 21:
+Residents should not place any belongings at the corridor, on the water dispenser, on the cable tray or in
+other public area. Violators shall receive 5 penalty points. The items will be considered and disposed as
+waste.
+
+第二十二條
+食物殘渣(如茶葉、泡麵、果皮等)不得倒入飲水機及洗手檯水槽、馬桶、小便斗、排水孔，違者記
+10 點。
+
+Article 22:
+Residents should not dump any food waste (e.g., tea leaves, noodles and fruit peel) in the water
+dispenser, sink, toilet, urinal and drain. Violators shall receive 10 penalty points.
+
+第二十三條
+宿舍區域內禁止擅自宣傳或發放、張貼傳單，違者記 5 點。欲張貼者，須先至服務中心蓋章核
+准，再將海報張貼於指定區域。
+
+Article 23:
+Residents should not send the leaflet and paste the posters in the dormitory area without permission.
+Violators shall receive 5 penalty points. Residents should get an approval stamp from Second-Village
+Dormitory Service Center before pasting the poster in the designated area.
+
+第二十四條
+宿舍區域內走廊上禁止使用自行車、機車、滑板、直排輪……等代步工具（輪椅不在此限），違
+者記 5 點。
+
+Article 24:
+Riding bicycle, motorcycle, skateboard, roller skates or other vehicles (wheelchair excluded) at the
+corridor of the dormitory area is prohibited. Violators shall receive 5 penalty points.
+
+第二十五條
+興大二村區域僅提供機踏車停放，相關停放規定，依學生宿舍自行車及機踏車管理辦法
+
+訂定之：
+1. 宿舍之住宿生享有申請車證停車之權利，惟限申請本人或（祖）父母及兄弟姊
+妹之車輛，且每人只得申請一車證（腳踏車、機車擇一），額滿為限。若經發
+現申請人為代人申請，或長期未停放申請人車輛之車位，立即取消已申請之車
+證，且當學年度不得再次申請。
+2. 未申請到車證之住宿生，其腳踏車與機車禁止停放於宿舍區內，若經本會查
+得，其違規車輛將貼單上鎖。
+3. 車輛使用人應將腳踏車或機車整齊停放於所屬之車位上，未於規定位置張貼對
+號車證之車輛均屬違規，將貼單上鎖。
+4. 欲解鎖者請在指定時間及地點，由本人申請解鎖。
+解鎖時間
+
+週一至週五 09:00 – 10:30
+
+週一至週五 18:00 - 19:00 (學期第 8 週與第 16 週不開放)
+
+解鎖地點
+
+興大二村服務中心
+
+興大二村服委辦公室
+
+5. 非解鎖時間不受理解鎖，若欲強制解鎖者，立即取消已申請之車證，且當學年
+度不得再次申請。
+6. 違規停車之處分方式為：違規者收取違規金 100 元，累犯者加記 5 點 (可以
+累記)，另可於當學期以一小時的勞動服務，領回違規金，如未領回，將繳回
+校務基金。若當學年違規累計三次以上者，則立即取消已申請之車證，且當學
+年度不得再次申請。
+7. 毀損或藏匿本會掌管之車鎖，或令其不堪用者，除須照價賠償外，立即取消已
+申請之車證，且當學年度不得再次申請，並得記 10 點。
+8. 嚴禁汽車、未張貼當年度車證之機車與自行車進入宿舍停放，違規車輛將貼單
+上鎖，不得異議。
+9. 宿舍區域內嚴禁連按喇叭及飆車、蛇行、逆向等危險行為，違者記 10 點。
+10.機踏車需行駛相對應車道，違者記 5 點，累犯者將取消已申請之車證，且當
+學年度不得再次申請。
+11.宿舍區域內嚴禁洗車、更換機油或任何汙損車位及車道之行為，違者視情節記
+5 點，並自行清理，經告知而未清理者扣除清潔保證金。
+12.有換領車證或其他需求可向服務中心提出，申請核可後，通知住宿生隔日起保
+留 5 天工作天，逾期未領取者應重新申請。
+
+13.機踏車位僅供車輛停放，不得放置其他物品。違規物品將視為廢棄物，違者記
+5 點，得累記，情節嚴重者取消已申請之車證，且當學年度不得再次申請。
+14.禁止協助無通行證(eTag)或無車證者之車輛進出宿舍，違者記 5 點並取消已
+申請之車證，且當學年度不得再次申請。
+Article 25:
+Regulations on the parking of bicycles and motorcycles in the dormitory area are established according to
+National Chung Hsing University Student Dormitory Bicycle and Motorcycle Management Regulation:
+1. All residents in Second-Village Dormitory have the right to apply for a parking license.
+Residents can only apply for the license for their own vehicle or the vehicle which owned by
+their (grand) parents, brothers and sisters. Each resident may apply for only one parking
+license—either for a bicycle or a motorcycle—and licenses are subject to availability. If an
+applicant is found applying for a license for another person or do not park the vehicle for a
+long time, parling license will be confiscated immediately and not permit another license in
+current academic year.
+2. Residents who don’t have the parking license can’t park in the dormitory area. Violators’
+vehicles will be chained.
+3. Vehicles which are not parked in the permitted areas will be considered as violation and will
+be locked.
+4. Violators who want to unlock their vehicles should follow the timetable and rules below. If
+the violators ask other people to go to Second-Village Dormitory Service Center to unlock for
+them, they should provide a letter of authorization.
+Time
+
+Mon. ~ Fri. 9:00 to 10:00
+
+Mon. ~ Fri. 18:00 to 19:00 (i.e., closed during examination)
+
+Place
+
+Second-Village Dormitory Service Center
+
+Second-Village Dormitory Service Commission Office
+
+5. Unlock requirement is not accepted beyond unlocking time. Parking license will be
+confiscated if anyone mandatory demand unlocks and not permit another license in current
+academic year.
+6. Violator should pay a deposit of NTD$100. Violators shall receive 5 penalty point when they
+violated constantly. Repeated violation may result in cumulative penalty points. Deposits are
+able to get back if violators finished 1-hour labor services. The deposit will be transferred into
+the endowment fund if no one takes it back. If the residents who violate this article for 3
+
+times, the parking license will be confiscated and not permit another license in current
+academic year.
+7. Residents should not break or damage the lock which belongs to SDSC. Violators shall receive
+10 penalty points and be responsible for compensation. The parking license will be
+confiscated immediately and not permit another license in current academic year.
+8. Residents should not park their car, bicycles or motorcycles without current-academic-year
+parking license in the dormitory area. The vehicles of the violators will be chained; No
+objection is accepted.
+9. Residents should not press the horn of their vehicle continuously in the dormitory area.
+Dangerous driving and is strictly prohibited. Violator shall receive 10 penalty points.
+10. Bicycles and motorcycles have to ride on correspond traffic lane or violator will receive 5
+penalty points. If violator violated repeatedly, the parking license will be confiscated and not
+permit another license in current academic year.
+11. Residents should not wash their vehicle, change the engine oil or any behavior that defaces or
+damages parking spaces or driveways in the dormitory area. Violators shall receive 5 penalty
+points and clean by themselves. If they did not clean after notification, they shall be deducted
+the cleaning deposit.
+12. Changing parking license or any other demand could be proposed at Second-Village
+Dormitory Service Center. Application will reserve for five days and applicant shall reapply
+after overdue.
+13. Motorcycle and bicycle parking spaces are for vehicle parking only; no other items may be
+stored in these areas. Any unauthorized items will be treated as waste. Violators shall receive
+5 penalty points. Repeated violations may result in cumulative penalty points. In severe cases,
+the parking license will be confiscated and not permit another license in current academic
+year.
+14. Assisting vehicles without a valid access pass (eTag) or parking license to enter or exit the
+dormitory is prohibited. Violators shall receive 5 penalty points, and the parking license will
+be confiscated and not permit another license in current academic year.
+
+第二十六條
+
+興大二村每學期於住宿生學雜費中預收水電費、清潔費，每學年收取清潔保證金及財產保證金。
+1. 水、電費於每學期初收取，有剩餘者學年末統一退費，使用超過期初收取費用者服務中
+心將開立繳費單，應按時繳納。
+2. 住宿生應於退宿時清潔寢室並完成清檢程序，始得申請退還保證金。如未完成清檢程序
+或寢室設備有損壞或遺失之情形，則照價賠償。該賠償金額得由保證金扣抵，如有不足
+時，仍須補足應賠償金額。
+3. 學期結束後經服務委員清潔檢查未通過者及未依規定時間搬離宿舍者，予以扣除清潔保
+證金，並委由清潔公司進行清理，清潔保證金將支付清潔公司清理費用。
+4. 財產保證金視當學期離宿寢室財產檢查狀況退費，如為個人使用之損毀，由住宿同學個
+人負賠償責任，若為共同使用區域，由同寢同學共同賠償。
+5. 收到第一項之繳費單而未按時繳納者，記 5 點，另重新開立繳費單，並得按次連續處
+罰。但有不能繳納之情事，向服務中心說明並得同意暫緩者不在此限。
+
+Article 26:
+Residents in Second-Village Dormitory should pay water and electricity fee, cleaning fee in advance every
+semester, cleaning and property deposit every academic year.
+1. Water and electricity fee will be collected at the start of the semester. Dormitory will return
+the overcharge or payment of the shortage at the end of the academic year. If the usage
+exceeds the initial amount collected, Second-Village Dormitory Service Center will issue a
+payment notice, and the resident must pay it on time.
+2. Residents must clean their rooms and complete the final inspection process before moving
+out in order to apply for a deposit refund. If the inspection is not completed, or if any
+dormitory equipment is found to be damaged or missing, compensation will be required
+based on the value of the item. The compensation amount may be deducted from the
+deposit; if the deposit is insufficient, the resident is responsible for paying the remaining
+balance.
+3. If residents failed to pass the cleaning inspection carried out by SDSC, the cleaning deposit will
+not be refunded. The dormitory will hire professional cleaning crew to clean up the rooms.
+Cleaning deposit will be used to pay for the cleaning company.
+4. If any property in the room is damaged, the room members shall bear the cost jointly, and the
+
+compensation will be charged from their deposit fee.
+5. Resident who failure to pay a fee outlined in the first item by the due date shall receive a 5
+penalty point. A new fee statement shall be issued, and repeated failures may result in
+compounded penalties. However, this does not apply to those who explain their inability to
+pay to the Second-Village Dormitory Service Center and receive approval for a temporary
+deferral.
+
+第二十七條
+宿舍網路使用規定：
+1. 宿舍網路隸屬於學校網路，使用者應遵守計資中心相關使用規範。
+2. 流量限制以單日流入 (IN) 不超過 7GB ，流出 (OUT) 不超過 4GB 為原則。單日流量
+超過者，將由計資中心進行限速，並於 05:00 回復網路。
+3. 網管室之服務時間由各棟宿舍網管公告。
+4. 嚴禁使用者利用宿舍網路從事任何非法行為，如濫發信件、網路攻擊、侵犯他人隱私，
+以及任何破壞網路正常運作之行為等，為維護網路之正常運作，計資中心將立即執行斷
+網六小時（可連續斷網），嚴重者將處以人工截斷。
+5. 為保護智慧財產權，校園網路禁止使用 P2P 軟體，違者計資中心將阻斷該應用程式。
+6. 如必須架設分享器，向網管提出申請並同意架設規則，經審查通過確有必要者，網管方
+得協助架設。
+7. 未經他人同意擅自使用其宿舍網路者，記 5 點。未立即改善者，得連續加記。
+
+Article 27:
+Regulations for the Internet in the dormitory:
+1. Internet in the dormitory belongs to the university. Users should follow the rules of the
+computer center of the university.
+2. The in flow for a single day should not exceed 7GB; out flow should not exceed 4GB. The
+internet of the violators will be cut by the machine in the computer center until 05:00 A.M.
+the next day.
+3. The Internet administrator of each building will announce the timetable for the internet
+
+management office to accept problem reporting.
+4. It is forbidden for users to use the dormitory network to carry out any illegal acts, such as
+spamming letters, cyber-attacks, human private violations, and any acts that disrupt the
+normal operation of the network. The network will be cut off for six hours (the network can
+be disconnected continuously). In severe cases, it will be manually cut off.
+5. In order to protect intellectual property, internet of campus is abandoned to use P2P
+program, violators will be cut the program by the machine in NCHU Computer and
+Information Network Center.
+6. If residents need set up a wireless access point, please apply it to the internet manager and
+agree the set-up rules. After approving it and confirming the necessity, the internet manager
+can assist to set up.
+7. Unauthorized use of another resident’s dormitory internet connection without consent shall
+result in 5 penalty points. Those who fail to make immediate corrections may result in
+cumulative penalty points.
+
+第二十八條
+寧靜樓層住宿規定：
+1. 於寧靜樓層區域內，應隨時保持安靜，不得吵鬧喧嘩。
+2. 寧靜樓層之生活請遵守以下時程：
+(1) 於 00:00~06:00 關閉寢室大燈。
+(2) 於 01:00~06:00 關閉網路及燈源〈含檯燈〉，網路將會進行斷網，若須使用網路或
+燈光念書，請逕行前往閱覽室使用。
+(3) 學期第 9 週及前、後一週內、與第 16 週至第 18 週取消以上限制。
+3. 為維護各樓層安寧，避免影響住宿生就寢，沐浴、洗滌等活動請於 00:00 前完成。
+4. 若違反上述規定者，記 5 點，且爾後不得再申請寧靜樓層，違反 2 次者，必須於 1
+週內搬離本區，由服務中心安排住宿寢室；違反情節重大者，將依宿舍相關規定勒令退
+宿。
+
+Article 28:
+
+Regulations for Quiet Floors of the dormitory:
+1. In quiet floor areas, absolute silence shall be maintained at all times without any noise or
+clamor.
+2. Please observe the following schedule when staying on the quiet floors:
+(1) Turn off dormitory headlamps during 00:00–06:00.
+(2) The Internet and lights (including desk lamps) will be turned off during 01:00-06:00. If you
+need to use them to study, please go to the reading room.
+(3) The above restrictions are removed during the 8th , 9th , 10th , 16th,17th , 18th , weeks.
+3. To keep quiet and to avoid disturbing others' sleep, do not talk or make noise during bathing
+and washing time, and finish them before 00:00.
+4. Residents who violate any article above shall receive 5 penalty points, and be suspended to
+apply for quiet floor. Those in violation two times must relocate to another residential area
+within one week, and Second-Village Service Center will arrange for alternative dormitory
+accommodation. For those who disobey the provision of the quietness dormitory seriously
+may be suspended form the dormitory immdiately.
+
+第二十九條
+銷點實施辦法：
+1. 受記點處分的住宿生，應在 7 日內，於服務中心領取並填寫申請表，提出銷點申請，
+超過 7 日不得申請。
+2. 申請銷點以事件為計算單位完成，申請後須於兩個月內完成銷點程序，若期間無法全數
+時數服務完畢，則不予以註銷。
+3. 銷 1 點需勞動服務 1 小時，由服務中心指揮並監督住宿生完成勞動服務。
+4. 完成後由服務中心蓋章認證後，才完成銷點。
+
+Article 29:
+Regulations for reducing penalty points:
+1. Residents who receive penalty points should fill out the application form and send it to
+Second-Village Dormitory Service Center within 7 days after getting punishment.
+
+2. Procedure should be completed within 2 months. Penalty points will not be reduced if
+violators cannot finish dormitory service within 2 months.
+3. Penalty points can be reduced by 1 point per hour dormitory service. Second-Village
+Dormitory Service Center will guide and supervise the procedure.
+4. Penalty points will be reduced after Second-Village Dormitory Service Center approves and
+stamps on the application form.
+
+第三十條
+宿舍設立公用冰箱，應依國立中興大學學生宿舍公用冰箱使用管理要點之規定，服務中心將不定
+期抽檢，未遵守管理要點者，將記 5 點，屢勸不聽得以累加，不合存放規定之物品立即予以清
+除。
+
+Article 30:
+Using public refrigerators should comply with National Chung Hsing University Student Dormitory Public
+Refrigerators Management Regulation. Second-Village Dormitory Service Center will conduct random
+inspections. Failure to comply with the management guidelines shall receive 5 penalty points. Repeated
+violations despite warnings may result in cumulative penalty points, and those items will be removed.
+
+第三十一條
+其它浪費公共資源、違反公共衛生、違反公共區域使用規則、妨害居住安寧或公共安全之行為
+者，服務委員得以視情節懲處，情節重大者得勒令退宿。
+
+Article 31:
+Wasting dormitory resources, causing sanitary problems in public area, disturbing others, and causing
+safety issues, will get penalty points according to the situation, which is judged by SDSC, serious issues
+will consider to be suspended from the dormitory immediately.
+
+第三十二條
+本宿舍公約如有不完備之處，得經本會及服務中心討論通過，送住宿輔導組核備後，公告實施。
+
+Article 32:
+Any violation or housing issue not covered in this guideline can be enacted by SDSC after the discussion
+with Second-Village Dormitory Service Center, conducting after being announced in dormitory and
+approval of NCHU Student Housing Service Division.
+
+
