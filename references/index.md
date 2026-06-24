@@ -7,7 +7,8 @@ Regulation documents sourced from [NCHU Office of Student Affairs - Dormitory Se
 | Directory | Format | Description |
 |-----------|--------|-------------|
 | `pdf-original/` | PDF | Original PDFs downloaded from the website, renamed by English title |
-| `rules/` | Markdown | Plain text converted via `pdftotext`, consumed by the skill |
+| `rules/` | Markdown | Plain text converted via `pdftotext` or manually written, consumed by the skill |
+| `appendix/` | PDF | Original PDFs for practical guides (e.g., network application guide with screenshots) |
 | `text_with_page_number/` | Text | Alternative conversion via PyMuPDF (fitz) with `[IMAGE]` placeholders and `--- Page N ---` markers |
 
 ## Regulatory Documents
@@ -38,6 +39,12 @@ Regulation documents sourced from [NCHU Office of Student Affairs - Dormitory Se
 | 15 | [Articles of Association for Resident Student Representative Committee](rules/Articles-of-Association-for-Resident-Student-Representative-Committee-1121024.md) | 1121024 |
 | 16 | [Measures of Resident Student Representatives Selection](rules/Measures-of-Resident-Student-Representatives-Selection-1121024.md) | 1121024 |
 | 17 | [Implementation Measures of Voluntary Services by Student Dormitories](rules/Implementation-Measures-of-Voluntary-Services-by-Student-Dormitories-1061110.md) | 1061110 |
+
+### Practical Guides (實用指南)
+
+| # | Document | Description |
+|---|----------|-------------|
+| 18 | [Dormitory Network Application Guide](rules/Dormitory-Network-Application-Guide.md) | Step-by-step network application procedure, includes equipment preparation, IP configuration (Windows/Mac), web portal application, troubleshooting, and MAC address lookup |
 
 ## Update Workflow
 
@@ -103,9 +110,23 @@ done
 python scripts/pdf-to-text.py references/pdf-original -o references/text_with_page_number
 ```
 
-### Step 5 — Update this index
+### Step 5 — Convert appendix PDFs to Markdown manually
+
+PDFs in `appendix/` contain image-heavy practical guides that `pdftotext` cannot fully capture.
+Convert them manually to `rules/` with complete textual descriptions of each image/step.
+
+### Step 6 — Update this index
 
 Bump version dates in the tables above to match the newly downloaded files.
+
+## Query Process
+
+When a user asks about dormitory rules:
+
+1. **Ask which dormitory** — Dorm-specific rules (male, female, Second Village, Nantou) may differ. If the user does not specify, ask before answering.
+2. Read `index.md` to identify the most relevant regulation document.
+3. Read the relevant file under `references/rules/`.
+4. Prefer the most specific applicable regulation (dorm-specific rules override general rules).
 
 ## Usage Notes
 
