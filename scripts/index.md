@@ -23,7 +23,7 @@ python scripts/pdf-to-text.py input.pdf -o output.txt
 ### Batch (directory)
 
 ```bash
-python scripts/pdf-to-text.py references/pdf-original -o references/text_temp
+python scripts/pdf-to-text.py references/pdf-original -o references/text_with_page_number
 ```
 
 Omitting arguments defaults to `input.pdf` → `output.txt`.
@@ -37,7 +37,7 @@ references/pdf-original/    ← original PDFs renamed by English title
   ↓ pdftotext
 references/rules/           ← Markdown used by the skill
   ↓ PyMuPDF (fitz)
-references/text_temp/       ← plain text with [IMAGE] placeholders
+references/text_with_page_number/       ← plain text with [IMAGE] placeholders and --- Page N --- markers
 ```
 
 ## PDF Naming Convention
