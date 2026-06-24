@@ -8,7 +8,7 @@ Regulation documents sourced from [NCHU Office of Student Affairs - Dormitory Se
 |-----------|--------|-------------|
 | `pdf-original/` | PDF | Original PDFs downloaded from the website, renamed by English title |
 | `rules/` | Markdown | Plain text converted via `pdftotext`, consumed by the skill |
-| `text_temp/` | Text | Alternative conversion via PyMuPDF (fitz) with `[IMAGE]` placeholders |
+| `text_with_page_number/` | Text | Alternative conversion via PyMuPDF (fitz) with `[IMAGE]` placeholders and `--- Page N ---` markers |
 
 ## Regulatory Documents
 
@@ -97,12 +97,17 @@ for pdf in references/pdf-original/*.pdf; do
 done
 ```
 
-### Step 4 — Convert to plain text (text_temp/)
+### Step 4 — Convert to plain text with page numbers (text_with_page_number/)
 
 ```bash
-python scripts/pdf-to-text.py references/pdf-original -o references/text_temp
+python scripts/pdf-to-text.py references/pdf-original -o references/text_with_page_number
 ```
 
 ### Step 5 — Update this index
 
 Bump version dates in the tables above to match the newly downloaded files.
+
+## Usage Notes
+
+* For general information retrieval, use `rules/` (Markdown, higher semantic density).
+* For page-number references, use `text_with_page_number/` (includes `--- Page N ---` markers).

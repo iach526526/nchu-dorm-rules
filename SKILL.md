@@ -28,20 +28,21 @@ If the documents do not provide a clear answer, say so explicitly you don't have
 1. Read `references/index.md` first to identify the most relevant regulation
    document.
 2. Read the relevant file under `references/rules/`.
-3. Prefer the most specific applicable regulation:
+3. If the user asks about the page number, or if your answer should reference a specific page, also read the corresponding file under `references/text_with_page_number/` (which contains `--- Page N ---` markers) to identify the page number.
+4. Prefer the most specific applicable regulation:
 
    * Dorm-specific rules override general dormitory rules.
-   * Male dormitory rules, female dormitory rules, Xingda Second Village rules,
-     and Nantou dormitory rules may differ.
-   * If the user does not specify the dormitory type and the answer may differ,
-     state that the rule may depend on the dormitory type.
-4. If multiple documents apply, prefer the document with the newer version date,
+    * Male dormitory rules, female dormitory rules, Xingda Second Village rules,
+      and Nantou dormitory rules may differ.
+    * If the user does not specify the dormitory type and the answer may differ,
+      state that the rule may depend on the dormitory type.
+ 5. If multiple documents apply, prefer the document with the newer version date,
    unless a more specific document clearly governs the issue.
-5. Do not invent rules.
-6. Do not answer from general knowledge when the provided documents are needed.
-7. If no explicit rule is found, say:
-   "The provided documents do not contain a clear rule for this question."
-8. When appropriate, suggest that the user confirm with the Dormitory Counseling
+ 6. Do not invent rules.
+ 7. Do not answer from general knowledge when the provided documents are needed.
+ 8. If no explicit rule is found, say:
+    "The provided documents do not contain a clear rule for this question."
+ 9. When appropriate, suggest that the user confirm with the Dormitory Counseling
    Section or the responsible contact listed in `references/contacts.md`.
 
 ## Answer Format
