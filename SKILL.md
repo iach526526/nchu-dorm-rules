@@ -1,19 +1,17 @@
 ---
 name: nchu-dorm-rules
 description: >
-Use this skill to answer questions about National Chung Hsing University
-student dormitory regulations, including housing rules, violations,
-repairs, network usage, public refrigerators, air-conditioning cards,
-bicycle and motorcycle management, dormitory borrowing, dormitory
-organizations, and responsible contacts. Trigger this skill when the user
-asks about NCHU dormitories, dorm rules, dorm violations, dorm repair,
-dorm network, dorm network application, dorm WiFi, dorm Ethernet,
-male dorms, female dorms, Xingda Second Village, or Nantou
-dormitory.
+  Use this skill to answer questions about National Chung Hsing University
+  student dormitory regulations, including housing rules, violations,
+  repairs, network usage, public refrigerators, air-conditioning cards,
+  bicycle and motorcycle management, dormitory borrowing, dormitory
+  organizations, and responsible contacts.
 metadata:
   author: Each Chen
   version: "1.0"
-----------
+---
+
+# NCHU Dormitory Rules Skill
 
 # NCHU Dormitory Rules Skill
 
