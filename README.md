@@ -10,7 +10,7 @@
 
 ## 解決什麼問題？
 
-讓你習慣使用的大語言模型服務告訴你正確的宿舍規定，你可以在不看任何規章的情況下丟一個問題，讓語言模型告訴你答案和應該確認的文件位置。
+讓你習慣使用的大語言模型服務告訴你正確的宿舍規定，你可以在不看任何規章的情況下丟一個問題，讓語言模型告訴你答案和應該確認的文件位置。為什麼想這麼做？因為我幾個小時候要開宿舍修法大會，我沒空讀這麼多份文件。
 
 ### 你可以透過這個 skill 知道
 - 問到宿舍的規定
@@ -22,7 +22,27 @@
 
 ### 這個專案不能幹嘛？
 - X 讓你的室友有良好的衛生習慣
-- X 
+- X 陪你談天抒發心情，靠北你的奇怪室友。如果有這種需求，你的樓長應該很樂意和你聊
+
+## 安裝與使用
+
+完整安裝教學請看 GitHub Wiki：
+
+- [新手安裝總覽](https://github.com/iach526526/nchu-dorm-rules/wiki)
+- [Claude Web 圖文安裝教學](https://github.com/iach526526/nchu-dorm-rules/wiki/claude_web)
+- [ChatGPT / GPT 使用教學](https://github.com/iach526526/nchu-dorm-rules/wiki/chatgpt)
+- [Codex 使用教學](https://github.com/iach526526/nchu-dorm-rules/wiki/codex)
+- [opencode 使用教學](https://github.com/iach526526/nchu-dorm-rules/wiki/opencode)
+- [Geek 快速安裝指令](https://github.com/iach526526/nchu-dorm-rules/wiki/geek)
+
+### 簡單來說
+1. 把這個資料夾弄成(.zip 檔) 
+   1. 點 GitHub 頁面右上綠色 `Code`。
+   2. 點 `Download ZIP`。
+2. 到支援 skill 的 AI 服務上傳這個 ZIP。
+3. 問它一題中興宿舍規定，確認它會引用宿舍法規來源。
+
+![下載 zip](https://github.com/iach526526/nchu-dorm-rules/wiki/src/to-zip.webp)
 
 
 ## Repository 結構
@@ -123,5 +143,3 @@ python scripts/validate_skill.py
 
 ## 授權
 本專案採用你他媽的想幹嘛就幹嘛授權條款 WTFPL（Do What The Fuck You Want To Public License），你他嗎的想幹嘛就幹嘛，對。
-
-
