@@ -1,134 +1,34 @@
-# References
+# Document Routing Manifest
 
-Regulation documents sourced from [NCHU Office of Student Affairs - Dormitory Section](https://www.osa.nchu.edu.tw/osa/dorm/rules.html).
+The table below maps every regulation document to its metadata and local file locations. Use this manifest to select the correct documents for a query.
 
-## Directory Structure
+| ID | Title | Source type | Priority | Applies to | Topic tags | Local structured file | Local raw file | Page text file | Version date | PDF URL |
+|---|---|---|---|---|---|---|---|---|---|---|
+| dorm-accommodation | Regulations for Dormitory Accommodation (1131129) | official_regulation | primary | all_dormitories | general | rules_structured/Regulations-for-Dormitory-Accommodation-1131129.md | rules/Regulations-for-Dormitory-Accommodation-1131129.md | text_with_page_number/Regulations-for-Dormitory-Accommodation-1131129.txt | 1131129 | https://www.osa.nchu.edu.tw/osa/dorm/rules/01-1131129_2.pdf |
+| dorm-maintenance | Application for Student Dormitory Maintenance Regulation (1131017) | official_regulation | primary | all_dormitories | repair | rules_structured/Application-for-Student-Dormitory-Maintenance-Regulation-1131017.md | rules/Application-for-Student-Dormitory-Maintenance-Regulation-1131017.md | text_with_page_number/Application-for-Student-Dormitory-Maintenance-Regulation-1131017.txt | 1131017 | https://www.osa.nchu.edu.tw/osa/dorm/rules/02-1131017.pdf |
+| bike-motorcycle | Directives Governing the Management of Bicycles and Motorbikes at Student Dormitories (1101203) | official_regulation | primary | all_dormitories | bicycle_motorcycle | rules_structured/Directives-Governing-the-Management-of-Bicycles-and-Motorbikes-at-Student-Dormitories-1101203.md | rules/Directives-Governing-the-Management-of-Bicycles-and-Motorbikes-at-Student-Dormitories-1101203.md | text_with_page_number/Directives-Governing-the-Management-of-Bicycles-and-Motorbikes-at-Student-Dormitories-1101203.txt | 1101203 | https://www.osa.nchu.edu.tw/osa/dorm/rules/03-1101203_2.pdf |
+| public-property | Dormitory Public Property Management Regulation (1040413) | official_regulation | primary | all_dormitories | public_property | rules_structured/Dormitory-Public-Property-Management-Regulation-1040413.md | rules/Dormitory-Public-Property-Management-Regulation-1040413.md | text_with_page_number/Dormitory-Public-Property-Management-Regulation-1040413.txt | 1040413 | https://www.osa.nchu.edu.tw/osa/dorm/rules/04-1040413_en.pdf |
+| dorm-application | Directives Governing the Application for and Management of Student Dormitories (1131129) | official_regulation | primary | all_dormitories | dorm_application | rules_structured/Directives-Governing-the-Application-for-and-Management-of-Student-Dormitories-1131129.md | rules/Directives-Governing-the-Application-for-and-Management-of-Student-Dormitories-1131129.md | text_with_page_number/Directives-Governing-the-Application-for-and-Management-of-Student-Dormitories-1131129.txt | 1131129 | https://www.osa.nchu.edu.tw/osa/dorm/rules/05-1131129_2.pdf |
+| male-dorm-rules | Guidelines on Rules and Punishment for Male Dormitory (1140517) | official_regulation | primary | male_dormitory | violation_points | rules_structured/Guidelines-on-Rules-and-Punishment-for-Male-Dormitory-1140517.md | rules/Guidelines-on-Rules-and-Punishment-for-Male-Dormitory-1140517.md | text_with_page_number/Guidelines-on-Rules-and-Punishment-for-Male-Dormitory-1140517.txt | 1140517 | https://www.osa.nchu.edu.tw/osa/dorm/rules/06-1140517.pdf |
+| female-dorm-rules | Female Dormitory Codes and Directives Governing the Handling of Violations (1140820) | official_regulation | primary | female_dormitory | violation_points | rules_structured/Female-Dormitory-Codes-and-Directives-Governing-the-Handling-of-Violations-1140820.md | rules/Female-Dormitory-Codes-and-Directives-Governing-the-Handling-of-Violations-1140820.md | text_with_page_number/Female-Dormitory-Codes-and-Directives-Governing-the-Handling-of-Violations-1140820.txt | 1140820 | https://www.osa.nchu.edu.tw/osa/dorm/rules/07-1140820_2.pdf |
+| second-village-rules | Guidelines or Rules and Punishment for Second-Village Dormitory (1140507) | official_regulation | primary | second_village | violation_points | rules_structured/Guidelines-or-Rules-and-Punishment-for-Second-Village-Dormitory-1140507.md | rules/Guidelines-or-Rules-and-Punishment-for-Second-Village-Dormitory-1140507.md | text_with_page_number/Guidelines-or-Rules-and-Punishment-for-Second-Village-Dormitory-1140507.txt | 1140507 | https://www.osa.nchu.edu.tw/osa/dorm/rules/15-1140507.pdf |
+| nantou-dorm-rules | Guidelines on Rules and Punishment for Nantou Dormitory (1121025) | official_regulation | primary | nantou_dormitory | violation_points | rules_structured/Guidelines-on-Rules-and-Punishment-for-Nantou-Dormitory-1121025.md | rules/Guidelines-on-Rules-and-Punishment-for-Nantou-Dormitory-1121025.md | text_with_page_number/Guidelines-on-Rules-and-Punishment-for-Nantou-Dormitory-1121025.txt | 1121025 | https://www.osa.nchu.edu.tw/osa/dorm/rules/16-1121025_3.pdf |
+| dorm-network | Guidelines for the Network Management of Student Dormitories (1071214) | official_regulation | primary | all_dormitories | network | rules_structured/Guidelines-for-the-Network-Management-of-Student-Dormitories-1071214.md | rules/Guidelines-for-the-Network-Management-of-Student-Dormitories-1071214.md | text_with_page_number/Guidelines-for-the-Network-Management-of-Student-Dormitories-1071214.txt | 1071214 | https://www.osa.nchu.edu.tw/osa/dorm/rules/13-1071214_en.pdf |
+| dorm-refrigerator | Directives Governing the Use and Management of Student Dormitory Refrigerators (1141211) | official_regulation | primary | all_dormitories | refrigerator | rules_structured/Directives-Governing-the-Use-and-Management-of-Student-Dormitory-Refrigerators-1141211.md | rules/Directives-Governing-the-Use-and-Management-of-Student-Dormitory-Refrigerators-1141211.md | text_with_page_number/Directives-Governing-the-Use-and-Management-of-Student-Dormitory-Refrigerators-1141211.txt | 1141211 | https://www.osa.nchu.edu.tw/osa/dorm/rules/14-1141211.pdf |
+| aircon-card | Guidelines for the Management of Air Conditioning Cards in Student Dormitories (1131217) | official_regulation | primary | all_dormitories | air_conditioning_card | rules_structured/Guidelines-for-the-Management-of-Air-Conditioning-Cards-in-Student-Dormitories-1131217.md | rules/Guidelines-for-the-Management-of-Air-Conditioning-Cards-in-Student-Dormitories-1131217.md | text_with_page_number/Guidelines-for-the-Management-of-Air-Conditioning-Cards-in-Student-Dormitories-1131217.txt | 1131217 | https://www.osa.nchu.edu.tw/osa/dorm/rules/17-1131217.pdf |
+| service-committee | Articles of Association of Student Dormitory Service Committee (1060913) | official_regulation | secondary | all_dormitories | dorm_organization | rules_structured/Articles-of-Association-of-Student-Dormitory-Service-Committee-1060913.md | rules/Articles-of-Association-of-Student-Dormitory-Service-Committee-1060913.md | text_with_page_number/Articles-of-Association-of-Student-Dormitory-Service-Committee-1060913.txt | 1060913 | https://www.osa.nchu.edu.tw/osa/dorm/rules/08-1060913_en.pdf |
+| committee-selection | Selection and Evaluation Measures of Student Dormitory Service Committee (1130313) | official_regulation | secondary | all_dormitories | dorm_organization | rules_structured/Selection-and-Evaluation-Measures-of-Student-Dormitory-Service-Committee-1130313.md | rules/Selection-and-Evaluation-Measures-of-Student-Dormitory-Service-Committee-1130313.md | text_with_page_number/Selection-and-Evaluation-Measures-of-Student-Dormitory-Service-Committee-1130313.txt | 1130313 | https://www.osa.nchu.edu.tw/osa/dorm/rules/09-1130313_3.pdf |
+| resident-rep-committee | Articles of Association for Resident Student Representative Committee (1121024) | official_regulation | secondary | all_dormitories | dorm_organization | rules_structured/Articles-of-Association-for-Resident-Student-Representative-Committee-1121024.md | rules/Articles-of-Association-for-Resident-Student-Representative-Committee-1121024.md | text_with_page_number/Articles-of-Association-for-Resident-Student-Representative-Committee-1121024.txt | 1121024 | https://www.osa.nchu.edu.tw/osa/dorm/rules/10-1121024_4.pdf |
+| resident-rep-selection | Measures of Resident Student Representatives Selection (1121024) | official_regulation | secondary | all_dormitories | dorm_organization | rules_structured/Measures-of-Resident-Student-Representatives-Selection-1121024.md | rules/Measures-of-Resident-Student-Representatives-Selection-1121024.md | text_with_page_number/Measures-of-Resident-Student-Representatives-Selection-1121024.txt | 1121024 | https://www.osa.nchu.edu.tw/osa/dorm/rules/11-1121024_4.pdf |
+| voluntary-services | Implementation Measures of Voluntary Services by Student Dormitories (1061110) | official_regulation | secondary | all_dormitories | general | rules_structured/Implementation-Measures-of-Voluntary-Services-by-Student-Dormitories-1061110.md | rules/Implementation-Measures-of-Voluntary-Services-by-Student-Dormitories-1061110.md | text_with_page_number/Implementation-Measures-of-Voluntary-Services-by-Student-Dormitories-1061110.txt | 1061110 | https://www.osa.nchu.edu.tw/osa/dorm/rules/12-1061110_en.pdf |
+| network-guide | Dormitory Network Application Guide | official_guide | supporting | all_dormitories | network | rules_structured/Dormitory-Network-Application-Guide.md | rules/Dormitory-Network-Application-Guide.md | UNKNOWN | UNKNOWN | UNKNOWN |
 
-| Directory | Format | Description |
-|-----------|--------|-------------|
-| `pdf-original/` | PDF | Original PDFs downloaded from the website, renamed by English title |
-| `rules/` | Markdown | Plain text converted via `pdftotext` or manually written, consumed by the skill |
-| `appendix/` | PDF | Original PDFs for practical guides (e.g., network application guide with screenshots) |
-| `text_with_page_number/` | Text | Alternative conversion via PyMuPDF (fitz) with `[IMAGE]` placeholders and `--- Page N ---` markers |
+## Source Priority
 
-## Regulatory Documents
-
-### Dormitory Regulations (住宿法規)
-
-| # | Document | Version |
-|---|----------|---------|
-| 1 | [Regulations for Dormitory Accommodation](rules/Regulations-for-Dormitory-Accommodation-1131129.md) | 1131129 |
-| 2 | [Application for Student Dormitory Maintenance Regulation](rules/Application-for-Student-Dormitory-Maintenance-Regulation-1131017.md) | 1131017 |
-| 3 | [Directives Governing the Management of Bicycles and Motorbikes at Student Dormitories](rules/Directives-Governing-the-Management-of-Bicycles-and-Motorbikes-at-Student-Dormitories-1101203.md) | 1101203 |
-| 4 | [Dormitory Public Property Management Regulation](rules/Dormitory-Public-Property-Management-Regulation-1040413.md) | 1040413 |
-| 5 | [Directives Governing the Application for and Management of Student Dormitories](rules/Directives-Governing-the-Application-for-and-Management-of-Student-Dormitories-1131129.md) | 1131129 |
-| 6 | [Guidelines on Rules and Punishment for Male Dormitory](rules/Guidelines-on-Rules-and-Punishment-for-Male-Dormitory-1140517.md) | 1140517 |
-| 7 | [Female Dormitory Codes and Directives Governing the Handling of Violations](rules/Female-Dormitory-Codes-and-Directives-Governing-the-Handling-of-Violations-1140820.md) | 1140820 |
-| 8 | [Guidelines or Rules and Punishment for Second-Village Dormitory](rules/Guidelines-or-Rules-and-Punishment-for-Second-Village-Dormitory-1140507.md) | 1140507 |
-| 9 | [Guidelines on Rules and Punishment for Nantou Dormitory](rules/Guidelines-on-Rules-and-Punishment-for-Nantou-Dormitory-1121025.md) | 1121025 |
-| 10 | [Guidelines for the Network Management of Student Dormitories](rules/Guidelines-for-the-Network-Management-of-Student-Dormitories-1071214.md) | 1071214 |
-| 11 | [Directives Governing the Use and Management of Student Dormitory Refrigerators](rules/Directives-Governing-the-Use-and-Management-of-Student-Dormitory-Refrigerators-1141211.md) | 1141211 |
-| 12 | [Guidelines for the Management of Air Conditioning Cards in Student Dormitories](rules/Guidelines-for-the-Management-of-Air-Conditioning-Cards-in-Student-Dormitories-1131217.md) | 1131217 |
-
-### Dormitory Organization (宿舍組織)
-
-| # | Document | Version |
-|---|----------|---------|
-| 13 | [Articles of Association of Student Dormitory Service Committee](rules/Articles-of-Association-of-Student-Dormitory-Service-Committee-1060913.md) | 1060913 |
-| 14 | [Selection and Evaluation Measures of Student Dormitory Service Committee](rules/Selection-and-Evaluation-Measures-of-Student-Dormitory-Service-Committee-1130313.md) | 1130313 |
-| 15 | [Articles of Association for Resident Student Representative Committee](rules/Articles-of-Association-for-Resident-Student-Representative-Committee-1121024.md) | 1121024 |
-| 16 | [Measures of Resident Student Representatives Selection](rules/Measures-of-Resident-Student-Representatives-Selection-1121024.md) | 1121024 |
-| 17 | [Implementation Measures of Voluntary Services by Student Dormitories](rules/Implementation-Measures-of-Voluntary-Services-by-Student-Dormitories-1061110.md) | 1061110 |
-
-### Practical Guides (實用指南)
-
-| # | Document | Description |
-|---|----------|-------------|
-| 18 | [Dormitory Network Application Guide](rules/Dormitory-Network-Application-Guide.md) | Step-by-step network application procedure, includes equipment preparation, IP configuration (Windows/Mac), web portal application, troubleshooting, and MAC address lookup |
-
-## Update Workflow
-
-When the school publishes new versions:
-
-### Step 1 — Download new PDFs
-
-```bash
-wget -q -O /tmp/rules.html "https://www.osa.nchu.edu.tw/osa/dorm/rules.html"
-grep -oP 'https://[^"]+\.pdf' /tmp/rules.html | sort -u | wget -i - -P /tmp/nchu-pdfs/
-```
-
-### Step 2 — Extract English titles and rename
-
-```bash
-mkdir -p references/pdf-original
-python3 -c "
-import fitz, os, re, glob, shutil
-
-src = '/tmp/nchu-pdfs'
-dst = 'references/pdf-original'
-
-for pdf_path in sorted(glob.glob(os.path.join(src, '*.pdf'))):
-    doc = fitz.open(pdf_path)
-    text = doc[0].get_text()
-    doc.close()
-
-    # First English line after Chinese title
-    eng = ''
-    for line in text.split('\n'):
-        if re.match(r'^[A-Z]', line.strip()) and 'Chung Hsing' in line:
-            eng = line.strip()
-            break
-
-    # Remove 'National Chung Hsing University ' prefix
-    eng = re.sub(r'^National Chung Hsing University ', '', eng)
-    # Remove ' at National Chung Hsing University' suffix
-    eng = re.sub(r'\s+at\s+National\s+Chung\s+Hsing\s+University$', '', eng)
-    # Extract date from server filename
-    date_match = re.search(r'(\d{7})', os.path.basename(pdf_path))
-    date = date_match.group(1) if date_match else '0000000'
-    safe = re.sub(r'\s+', '-', eng.strip())
-    safe = re.sub(r'[^\w-]', '', safe).strip('-')
-
-    shutil.copy2(pdf_path, os.path.join(dst, f'{safe}-{date}.pdf'))
-    print(f'{safe}-{date}.pdf')
-"
-```
-
-### Step 3 — Convert to Markdown (rules/)
-
-```bash
-# pdftotext method (for the skill)
-for pdf in references/pdf-original/*.pdf; do
-  base=$(basename "$pdf" .pdf)
-  pdftotext "$pdf" "references/rules/${base}.md"
-done
-```
-
-### Step 4 — Convert to plain text with page numbers (text_with_page_number/)
-
-```bash
-python scripts/pdf-to-text.py references/pdf-original -o references/text_with_page_number
-```
-
-### Step 5 — Convert appendix PDFs to Markdown manually
-
-PDFs in `appendix/` contain image-heavy practical guides that `pdftotext` cannot fully capture.
-Convert them manually to `rules/` with complete textual descriptions of each image/step.
-
-### Step 6 — Update this index
-
-Bump version dates in the tables above to match the newly downloaded files.
-
-## Query Process
-
-When a user asks about dormitory rules:
-
-1. **Ask which dormitory** — Dorm-specific rules (male, female, Second Village, Nantou) may differ. If the user does not specify, ask before answering.
-2. Read `index.md` to identify the most relevant regulation document.
-3. Read the relevant file under `references/rules/`.
-4. Prefer the most specific applicable regulation (dorm-specific rules override general rules).
-
-## Usage Notes
-
-* For general information retrieval, use `rules/` (Markdown, higher semantic density).
-* For page-number references, use `text_with_page_number/` (includes `--- Page N ---` markers).
+1. **Official dormitory regulations** are authoritative.
+2. **Dormitory-specific regulations** override general dormitory regulations.
+3. **Official guides** are used for operational steps only.
+4. **Appendix files** are supporting materials only.
+5. **Generated summaries and FAQ maps** are routing aids, not authoritative sources.
+6. **Original Chinese text** overrides English translations.
+7. When sources conflict, **report the conflict** instead of silently choosing one, unless priority clearly resolves it.

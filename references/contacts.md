@@ -1,9 +1,6 @@
-# 聯絡清單
-這是興大二村的服務委員公開可聯絡的方式，下以職位分之
+# Dormitory Contacts
 
-## 網管
-- 陳奕其（西棟）
-  - hi@iach.cc
-
-## 樓長
-- 暫時沒有可用的資訊
+| Unit | Responsibility | Applies to | Contact info | Source document | Notes |
+|---|---|---|---|---|---|
+| Network Administrator (Second Village - West Building) | Network management | second_village | hi@iach.cc (陳奕其) | Second Village rules | Only contact for Second Village network issues |
+| Second Village Service Committee | General dormitory administration | second_village | UNKNOWN | UNKNOWN | Contact via Service Center during office hours |
