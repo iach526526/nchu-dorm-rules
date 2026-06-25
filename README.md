@@ -39,10 +39,13 @@
 1. 把這個資料夾弄成(.zip 檔) 
    1. 點 GitHub 頁面右上綠色 `Code`。
    2. 點 `Download ZIP`。
-2. 到支援 skill 的 AI 服務上傳這個 ZIP。
-3. 問它一題中興宿舍規定，確認它會引用宿舍法規來源。
 
 ![下載 zip](https://github.com/iach526526/nchu-dorm-rules/wiki/src/to-zip.webp)
+
+1. 到支援 skill 的 AI 服務上傳這個 ZIP。
+2. 問它一題中興宿舍規定，確認它會引用宿舍法規來源。
+
+![期望輸出](https://github.com/iach526526/nchu-dorm-rules/wiki/src/claude-correct.webp)
 
 
 ## Repository 結構
@@ -83,31 +86,6 @@
 
 完整說明請見 `references/source_priority.md`。
 
-## 更新法規
-
-理論上可以直接告訴 agent 去[學務處網站](https://www.osa.nchu.edu.tw/osa/dorm/rules.html)爬資料更新，不用自己做。大體來說是這樣的流程。
-
-1. 至 https://www.osa.nchu.edu.tw/osa/dorm/rules.html 下載新版 PDF
-2. 執行 `references/index.md` 中 Update Workflow 段落之 bash 指令
-3. 更新 `references/index.md` 中的版本日期
-4. 執行 `python scripts/validate_skill.py` 驗證完整性
-5. 確認測試案例通過
-
-### 如何執行驗證
-
-```bash
-pip install pyyaml
-python scripts/validate_skill.py
-```
-
-### 新增文件
-
-1. 將 PDF 放入 `references/pdf-original/`
-2. 轉為 Markdown：`pdftotext <pdf> references/rules/<filename>.md`
-3. 在 `references/rules_structured/` 下建立結構化版本
-4. 在 `references/index.md` 路由表中新增條目
-5. 在 `references/faq_map.md` 中新增 FAQ 對應（如適用）
-6. 執行驗證
 
 ## 收錄文件
 
